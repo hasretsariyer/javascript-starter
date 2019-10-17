@@ -15,5 +15,5 @@ let doubleTheValue = (() => {
 // Calculation to be done since there is no cache
 doubleTheValue(10);
 
-// Cached value is returned directly without no calculation
+// Cached value is returned directly without any calculation
 doubleTheValue(10);
